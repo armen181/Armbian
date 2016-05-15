@@ -17,7 +17,7 @@ http://www.armbian.com
 **Execution**
 	
 	apt-get -y install git
-	git clone https://github.com/igorpecovnik/lib --depth 1
+	git clone https://github.com/armen181/Armbian --depth 1
 	cp lib/compile.sh .
 	./compile.sh
 	
