@@ -216,7 +216,7 @@ manual_cs = 0
 
 [gpio_para]
 gpio_used = 1
-gpio_num = 13
+gpio_num = 15
 gpio_pin_1       = port:PA06<1><default><default><0>
 gpio_pin_4       = port:PA01<1><default><default><0>
 gpio_pin_5       = port:PD14<1><default><default><0>
